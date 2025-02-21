@@ -40,6 +40,7 @@ function App() {
             <Col lg={6} md={6} sm={12} className="bg-success text-white p-2">
              <h1> First Column</h1>
             <Button variant="danger">Click</Button>
+            <Button variant="danger">Click</Button>
              
             </Col>
 
